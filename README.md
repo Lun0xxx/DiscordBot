@@ -7,7 +7,7 @@ Voici un bot Discord avec certaines fonctionnalités interessantes.
 # Utilisation
 
 1. Tout d'abord, il faut installer Python.
-[Pour cela, rendez-vous sur ce site :] (https://www.python.org/downloads/) et téléchargez la version la plus récente et adaptée a votre système d'exploitation.
+Pour cela, rendez-vous sur ce site : (https://www.python.org/downloads/) et téléchargez la version la plus récente et adaptée a votre système d'exploitation.
 
 2. Ensuite, il faudra installer un autre outil, nommé Pip.
 [Pour cela, rendez-vous sur le site : (Windows) :] (https://waytolearnx.com/2020/06/comment-installer-pip-pour-python-sur-windows.html)
