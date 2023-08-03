@@ -30,8 +30,8 @@ Pour cela, rendez-vous dans un cmd (pour Windows) ou un terminal (pour macOS / L
 15. Une fois fait, vous repartez dans le menu déroulant à gauche et vous appuyez sur **'Bot'**.
 16. Au niveau de **'TOKEN'**, à côté du logo de votre Bot, vous appuyez sur **'Reset Token'** et vous le copiez.
 ***AVERTISSEMENT : Le token n'est a donner à personne. En cas de divulgation, le bot peut être utilisé par n'importe qui possédant le token jusqu'à ce que vous faîtes un reset du token à cet endroit.***
-17. Une fois le token copié, vous vous rendez dans le dossier où se trouve les fichiers téléchargés et vous ouvrez le fichier **'.env'**.
-18. Vous copiez ensuite votre token entre les guillements **(exemple : BOT_TOKEN='votre_token')**
+17. Une fois le token copié, vous vous rendez dans le dossier où se trouve les fichiers téléchargés et vous crééez un fichier nommé **.env**.
+18. A l'intérieur, vous marquez ceci (en remplaçant votre_token par celui que vous avez copié) : **BOT_TOKEN='votre_token'**
 19. Une fois cela fait, vous pouvez démarrer le bot en ouvrant un CMD (pour Windows) ou un terminal (pour macOS / Linux).
 20. Vous vous rendez dans le dossier du projet et marquer la commande **'python3 main.py'**.
 (Exemple Windows : Si le fichier se trouve dans le disque local C, alors vous tapez dans le cmd : **dir 'C:'** et vous tapez **'python main.py'**)
@@ -156,8 +156,8 @@ To do this, open a cmd prompt (for Windows) or a terminal (for macOS / Linux) an
 15. Once done, return to the left dropdown menu and click on **'Bot'**.
 16. Under **'TOKEN'**, next to your Bot's logo, click on **'Reset Token'** and copy it.
 ***WARNING: The token should not be shared with anyone. If disclosed, the bot can be used by anyone with the token until you reset the token at this location.***
-17. Once the token is copied, navigate to the folder where the downloaded files are located and open the **'.env'** file.
-18. Then paste your token between the quotes (**example: BOT_TOKEN='your_token'**)
+17. Once the token is copied, navigate to the folder where the downloaded files are located and create a file named **.env**.
+18. Then copy this in the **.env file** (by replacing your_token with what you copied earlier) : BOT_TOKEN='your_token'
 19. Once this is done, you can start the bot by opening a CMD prompt (for Windows) or a terminal (for macOS / Linux).
 20. Navigate to the project folder and enter the command **'python3 main.py'**.
 (Windows example: If the file is located on local disk C, then type in cmd: **dir 'C:'** and type **'python main.py'**)
