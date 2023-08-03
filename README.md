@@ -13,8 +13,8 @@ Voici un bot Discord avec certaines fonctionnalités interessantes.
 [Pour cela, rendez-vous sur le site : (Windows) :] (https://waytolearnx.com/2020/06/comment-installer-pip-pour-python-sur-windows.html)
                                      [(macOS / Linux) :] (https://stacklima.com/comment-installer-pip-dans-macos/)
 
-De plus, vous devrez installer le module **'discord.py'** pour faire fonctionner le bot.
-3. Pour cela, rendez-vous dans un cmd (pour Windows) ou un terminal (pour macOS / Linux) et tapez la commande : **pip install discord.py**
+3. De plus, vous devrez installer le module **'discord.py'** pour faire fonctionner le bot.
+Pour cela, rendez-vous dans un cmd (pour Windows) ou un terminal (pour macOS / Linux) et tapez la commande : **pip install discord.py**
 
 4. [Maintenant, allez sur le portail développeur de Discord :] (https://discord.com/developers/docs/intro)
 5. Vous vous connectez.
@@ -139,8 +139,8 @@ Here's a Discord bot with some interesting features.
 [For this, go to the site (Windows):] (https://waytolearnx.com/2020/06/comment-installer-pip-pour-python-sur-windows.html)
 [(macOS / Linux):] (https://stacklima.com/comment-installer-pip-dans-macos/)
 
-Furthermore, you'll need to install the **'discord.py'** module to make the bot work.
-3. To do this, open a cmd prompt (for Windows) or a terminal (for macOS / Linux) and type the command: **pip install discord.py**
+3. Furthermore, you'll need to install the **'discord.py'** module to make the bot work.
+To do this, open a cmd prompt (for Windows) or a terminal (for macOS / Linux) and type the command: **pip install discord.py**
 
 4. [Now, go to the Discord Developer Portal:] (https://discord.com/developers/docs/intro)
 5. Log in.
