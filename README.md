@@ -39,6 +39,7 @@ Vous vous rendez dans le dossier du projet et marquer la commande **'python3 mai
 Une fois qu'il est marqué **'Bot is running...'** cela indique que votre bot est en ligne.
 
 Liste des commandes : 
+    
     *!kick*
     Permet de kick un membre
     (Il y a deux arguments : le membre, la raison (facultative))
